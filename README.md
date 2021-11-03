@@ -1,2 +1,2 @@
-# Qiksit_Pulse_Trials
+# Qiskit_Pulse_Trials
 A Repo for my Qiskit Pulse files
